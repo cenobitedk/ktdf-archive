@@ -1,0 +1,7 @@
+{
+  "name": "KTDF Archive",
+  "description": "Archive for previous editions of killtowndeathfest.com",
+  "website": "archive.killtowndeathfest.com",
+  "repository": "https://github.com/cenobitedk/ktdf-archive",
+  "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-static" }]
+}
